@@ -1,17 +1,12 @@
-
-
-
-
-by freeCodeCamp
 # API Project: Request Header Parser Microservice
 
 ### User Story:
 
-1. I can get the IP address, preferred languages (from header Accept-Language)
-and system infos (from header User-Agent) for my device.
+1. I can get the IP address, preferred languages (from header Accept-Language) and system infos (from header User-Agent) for my device.
+
 #### Example usage:
 
-[base url]/api/whoami
+* [base url]/api/whoami
 
 #### Example output:
 
